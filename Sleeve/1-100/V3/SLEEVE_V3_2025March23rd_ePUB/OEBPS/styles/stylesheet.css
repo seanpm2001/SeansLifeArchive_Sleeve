@@ -1,0 +1,326 @@
+.para6 {
+  margin:  0.1390in 0px 0.0835in 0px;
+}
+
+.para5 {
+  margin:  0px 0px 0px 0px;
+  text-align: start;
+}
+
+.para7 {
+  border-bottom: 0.2pt double #808080;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  margin:  0.0000in 0px 0.1965in 0px;
+}
+
+.para3 {
+  margin:  0px 0px 0px 0px;
+}
+
+.para2 {
+  margin:  0.0972in 0px 0.0835in 0px;
+}
+
+.para1 {
+  line-height: 115.0000%;
+  margin:  0.0000in 0px 0.0972in 0px;
+}
+
+.para4 {
+  margin:  0px 0px 0px 0px;
+  text-align: center;
+}
+
+.para0 {
+  margin:  0.1665in 0px 0.0835in 0px;
+}
+
+.span21 {
+  font-family: 'Liberation Serif1';
+  font-size: 14.0000pt;
+  font-weight: bold;
+}
+
+.span20 {
+  font-family: 'Liberation Serif1';
+  font-size: 16.0000pt;
+  font-weight: bold;
+}
+
+.span22 {
+  font-family: 'Liberation Sans';
+  font-size: 0.58em;
+  font-weight: bold;
+  position: relative;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span16 {
+  font-family: 'Liberation Sans';
+  font-size: 16.0000pt;
+  font-weight: bold;
+}
+
+.span15 {
+  color: #000080;
+  font-family: 'Liberation Serif';
+  text-decoration:  underline;
+}
+
+.span14 {
+  font-family: 'Liberation Serif';
+}
+
+.span13 {
+  font-family: 'Liberation Serif';
+  font-weight: bold;
+}
+
+.span1 {
+  background-color: #fafafa;
+  font-weight: bold;
+}
+
+.span3 {
+  background-color: #fafafa;
+}
+
+.span19 {
+  background-color: #fafafa;
+  font-family: 'Liberation Serif1';
+}
+
+.span4 {
+  background-color: #fafafa;
+  font-weight: normal;
+}
+
+.span18 {
+  background-color: #fafafa;
+  font-family: 'Liberation Mono';
+  font-size: 0.58em;
+  position: relative;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span0 {
+  font-family: 'Liberation Sans';
+  font-size: 18.0000pt;
+  font-weight: bold;
+  text-decoration:  underline;
+}
+
+.span12 {
+  font-size: 0.58em;
+  position: relative;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span5 {
+  background-color: #fafafa;
+  color: #2a6099;
+  font-weight: normal;
+}
+
+.span8 {
+  background-color: #fafafa;
+  color: #ff0000;
+  font-size: 0.58em;
+  font-weight: normal;
+  position: relative;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span2 {
+  font-family: 'Liberation Sans';
+  font-size: 14.0000pt;
+  font-weight: bold;
+}
+
+.span6 {
+  background-color: #fafafa;
+  color: #2a6099;
+  font-size: 0.58em;
+  font-weight: normal;
+  position: relative;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span7 {
+  background-color: #fafafa;
+  color: #ff0000;
+  font-weight: normal;
+}
+
+.span9 {
+  background-color: #fafafa;
+  color: #55308d;
+}
+
+.span17 {
+  background-color: #fafafa;
+  font-family: 'Liberation Mono';
+}
+
+.span10 {
+}
+
+.span11 {
+  color: #000080;
+  text-decoration:  underline;
+}
+
+.body0 {
+  -epub-writing-mode: horizontal-tb;
+  -webkit-writing-mode: horizontal-tb;
+  direction: ltr;
+  writing-mode: horizontal-tb;
+}
+
+.cellTable14 {
+  background-color: #adc5e7;
+  border-bottom: 0.75pt solid #00599d;
+  border-left: none;
+  border-right: 0.75pt solid #00599d;
+  border-top: 0.75pt solid #00599d;
+  vertical-align: top;
+}
+
+.cellTable1 {
+  background-color: #00599d;
+  border-bottom: 0.75pt solid #00599d;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  vertical-align: top;
+  width: 25.0063%;
+}
+
+.cellTable2 {
+  background-color: #00599d;
+  border-bottom: 0.75pt solid #00599d;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  vertical-align: top;
+}
+
+.cellTable7 {
+  background-color: #dddddd;
+  border-bottom: none;
+  border-left: 0.75pt solid #00599d;
+  border-right: none;
+  border-top: none;
+  vertical-align: top;
+  width: 24.9937%;
+}
+
+.cellTable11 {
+  background-color: #adc5e7;
+  border-bottom: 0.75pt solid #00599d;
+  border-left: 0.75pt solid #00599d;
+  border-right: none;
+  border-top: 0.75pt solid #00599d;
+  vertical-align: top;
+  width: 24.9937%;
+}
+
+.cellTable3 {
+  background-color: transparent;
+  border-bottom: none;
+  border-left: 0.75pt solid #00599d;
+  border-right: none;
+  border-top: none;
+  vertical-align: top;
+  width: 24.9937%;
+}
+
+.cellTable0 {
+  background-color: #00599d;
+  border-bottom: 0.75pt solid #00599d;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  vertical-align: top;
+  width: 24.9937%;
+}
+
+.cellTable5 {
+  background-color: transparent;
+  border: none;
+  vertical-align: top;
+  width: 24.9937%;
+}
+
+.cellTable4 {
+  background-color: transparent;
+  border: none;
+  vertical-align: top;
+  width: 25.0063%;
+}
+
+.cellTable6 {
+  background-color: transparent;
+  border-bottom: none;
+  border-left: none;
+  border-right: 0.75pt solid #00599d;
+  border-top: none;
+  vertical-align: top;
+}
+
+.cellTable10 {
+  background-color: #dddddd;
+  border-bottom: none;
+  border-left: none;
+  border-right: 0.75pt solid #00599d;
+  border-top: none;
+  vertical-align: top;
+}
+
+.cellTable8 {
+  background-color: #dddddd;
+  border: none;
+  vertical-align: top;
+  width: 25.0063%;
+}
+
+.cellTable13 {
+  background-color: #adc5e7;
+  border-bottom: 0.75pt solid #00599d;
+  border-left: none;
+  border-right: none;
+  border-top: 0.75pt solid #00599d;
+  vertical-align: top;
+  width: 24.9937%;
+}
+
+.cellTable9 {
+  background-color: #dddddd;
+  border: none;
+  vertical-align: top;
+  width: 24.9937%;
+}
+
+.cellTable12 {
+  background-color: #adc5e7;
+  border-bottom: 0.75pt solid #00599d;
+  border-left: none;
+  border-right: none;
+  border-top: 0.75pt solid #00599d;
+  vertical-align: top;
+  width: 25.0063%;
+}
+
+.rowTable0 {
+}
+
+.table0 {
+  width: 6.9250in;
+}

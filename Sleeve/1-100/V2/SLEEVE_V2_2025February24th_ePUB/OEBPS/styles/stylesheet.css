@@ -1,0 +1,145 @@
+.para4 {
+  margin:  0.1390in 0px 0.0835in 0px;
+}
+
+.para5 {
+  border-bottom: 0.2pt double #808080;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  margin:  0.0000in 0px 0.1965in 0px;
+}
+
+.para3 {
+  margin:  0px 0px 0px 0px;
+}
+
+.para2 {
+  margin:  0.0972in 0px 0.0835in 0px;
+}
+
+.para1 {
+  line-height: 115.0000%;
+  margin:  0.0000in 0px 0.0972in 0px;
+}
+
+.para0 {
+  margin:  0.1665in 0px 0.0835in 0px;
+}
+
+.span15 {
+  font-family: 'Liberation Serif';
+  font-size: 14.0000pt;
+  font-weight: bold;
+}
+
+.span14 {
+  font-family: 'Liberation Serif';
+  font-size: 16.0000pt;
+  font-weight: bold;
+}
+
+.span1 {
+  background-color: #fafafa;
+  font-weight: bold;
+}
+
+.span16 {
+  font-family: 'Liberation Sans';
+  font-size: 0.58em;
+  font-weight: bold;
+  position: relative;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span10 {
+  font-family: 'Liberation Sans';
+  font-size: 16.0000pt;
+  font-weight: bold;
+}
+
+.span3 {
+  background-color: #fafafa;
+}
+
+.span11 {
+  background-color: #fafafa;
+  font-family: 'Liberation Mono';
+}
+
+.span0 {
+  font-family: 'Liberation Sans';
+  font-size: 18.0000pt;
+  font-weight: bold;
+  text-decoration:  underline;
+}
+
+.span12 {
+  background-color: #fafafa;
+  font-family: 'Liberation Mono';
+  font-size: 0.58em;
+  position: relative;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span4 {
+  background-color: #fafafa;
+  font-weight: normal;
+}
+
+.span13 {
+  background-color: #fafafa;
+  font-family: 'Liberation Serif';
+}
+
+.span5 {
+  background-color: #fafafa;
+  color: #2a6099;
+  font-weight: normal;
+}
+
+.span8 {
+  background-color: #fafafa;
+  color: #ff0000;
+  font-size: 0.58em;
+  font-weight: normal;
+  position: relative;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span2 {
+  font-family: 'Liberation Sans';
+  font-size: 14.0000pt;
+  font-weight: bold;
+}
+
+.span6 {
+  background-color: #fafafa;
+  color: #2a6099;
+  font-size: 0.58em;
+  font-weight: normal;
+  position: relative;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span7 {
+  background-color: #fafafa;
+  color: #ff0000;
+  font-weight: normal;
+}
+
+.span9 {
+  background-color: #fafafa;
+  color: #55308d;
+}
+
+.body0 {
+  -epub-writing-mode: horizontal-tb;
+  -webkit-writing-mode: horizontal-tb;
+  direction: ltr;
+  writing-mode: horizontal-tb;
+}
