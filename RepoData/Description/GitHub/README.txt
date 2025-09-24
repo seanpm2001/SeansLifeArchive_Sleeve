@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+👨‍🦱️🏴󠁧󠁢󠁷󠁬󠁳󠁿️🇮🇪️🇺🇸️2️⃣️0️⃣️0️⃣️1️⃣️📂️📔️ The official home repository for the Sleeve section of the Sean Patrick Myrick Life Archive project, the nain place to start with the Seanpm2001 Life Archive, like the sleeve of a very big book.
